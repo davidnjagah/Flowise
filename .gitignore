@@ -44,3 +44,6 @@
 
 ## compressed
 **/*.tgz
+
+##docker env
+/docker/.env
